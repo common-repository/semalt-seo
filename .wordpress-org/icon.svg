@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="256" height="256" fill="white"/>
+<rect width="256" height="256" fill="white"/>
+<rect width="256" height="256" fill="url(#pattern0)"/>
+<rect width="256" height="256" fill="#3D77E1"/>
+<path d="M104 104H74V180H104V104Z" fill="white"/>
+<path d="M144 74H114V180H144V74Z" fill="white"/>
+<path d="M184 90H154V180H184V90Z" fill="white"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(0 -0.0324675) scale(0.012987)"/>
+</pattern>
+<image id="image0" width="77" height="82" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAABSCAYAAAARiVn+AAABDUlEQVR4Ae3SsQ3AIBAEQaA4BxTnlo3kDth4Pv5LRjv3837DXQmsq2/PvwC0EAI0aEEgTJQGLQiEidKgBYEwURq0IBAmSoMWBMJEadCCQJgoDVoQCBOlQQsCYaI0aEEgTJQGLQiEidKgBYEwURq0IBAmSoMWBMJEadCCQJgoDVoQCBOlQQsCYaI0aEEgTJQGLQiEidKgBYEwURq0IBAmSoMWBMJEadCCQJgoDVoQCBOlQQsCYaI0aEEgTJQGLQiEidKgBYEwURq0IBAmSoMWBMJEadCCQJgoDVoQCBOlQQsCYaI0aEEgTJQGLQiEidKgBYEwURq0IBAmSoMWBMJEadCCQJgoDVoQCBOlBbQDSQMCwfmFBHAAAAAASUVORK5CYII="/>
+</defs>
+</svg>
